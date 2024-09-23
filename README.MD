@@ -4,7 +4,9 @@
 This Python script allows you to search for a specific term within a 7z archive file.
 
 I was originally trying to multi-thread this out for faster parsing, but since have kinda given up on that. 
+
 Options in place but have little impact on search speed without any multithreading.
+
 With a really old i5 it takes on average 20-30 min to parse a ~20gb 7z compressed archive (~120gb decompressed) that contains a single txt file.
 
 ## Features
