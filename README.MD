@@ -77,7 +77,7 @@ python search_in_archive.py --path archive.7z --search keyword --password Secret
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/search-in-7z-archive.git
+   git clone https://github.com/whalelinguni/Search7z/search-in-7z-archive.git
    ```
 2. Navigate to the project directory:
    ```bash
